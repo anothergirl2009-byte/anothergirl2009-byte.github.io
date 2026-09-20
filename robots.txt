@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dorothee.netlify.app/sitemap.xml
+Sitemap: https://anothergirl2009-byte.github.io/sitemap.xml
